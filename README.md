@@ -15,4 +15,4 @@ This repository contains the following files of C named below:-
 11. C program to Implement Dynamic Memeory Allocation
 12. Implementation of Bitwise Operation
 
-Note :- All codes are written ANSI Format and executed in Dev C++ Compiler.
+Note :- All codes are written in ANSI Format and executed in Dev C++ Compiler.
