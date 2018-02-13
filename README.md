@@ -1,4 +1,6 @@
 # c-codes
+This repository contains the following files of C named below:-
+
 
 1. Implement Various Data Types and types Casting in C
 2. C program to Implement Switch Case Statement
@@ -12,3 +14,5 @@
 10. Implementation of structures and Union
 11. C program to Implement Dynamic Memeory Allocation
 12. Implementation of Bitwise Operation
+
+Note :- All codes are written ANSI Format and executed in Dev C++ Compiler.
